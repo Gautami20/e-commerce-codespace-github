@@ -1,0 +1,14 @@
+.col {
+  display: flex;
+  flex-direction: column;
+  width: 28vw;
+}
+.col-button {
+  line-height: 2rem;
+  margin: 0.2rem;
+  background-color: rgb(1, 1, 1);
+  border: 1px solid whitesmoke;
+  box-shadow: 3px 2px 1px rgb(50, 52, 52);
+  color: white;
+  font-size: 1rem;
+}
